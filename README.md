@@ -1,6 +1,6 @@
 # 👋 Vincent Eng
 
-## 🚀 Enterprise CIO | Digital & AI Transformation Leader
+## 🚀 Enterprise CIO | Head of IT | Digital & AI Transformation Leader
 
 I am an experienced IT executive with over 30 years of leadership in driving **enterprise transformation, smart manufacturing, and AI-enabled business innovation**.
 
@@ -65,7 +65,7 @@ I am actively exploring leadership opportunities as:
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Add your link]
+- LinkedIn: www.linkedin.com/in/engpc2018
 - GitHub: https://github.com/vincenteng-AISG23
 
 ---
